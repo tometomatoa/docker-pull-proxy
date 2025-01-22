@@ -1,1 +1,1 @@
-osixia/keepalived:release-2.1.5-dev   registry.cn-hangzhou.aliyuncs.com/github-aliyun/osixia/keepalived:release-2.1.5-dev
+osixia/keepalived:2.2.8-betav   registry.cn-hangzhou.aliyuncs.com/github-aliyun/osixia/keepalived:2.2.8-beta
