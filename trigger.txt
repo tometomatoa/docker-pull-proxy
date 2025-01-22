@@ -1,1 +1,1 @@
- redis:8.0-M03-alpine3.21   registry.cn-hangzhou.aliyuncs.com/github-aliyun/redis:8.0-M03-alpine3.21
+osixia/keepalived:release-2.1.5-dev   registry.cn-hangzhou.aliyuncs.com/github-aliyun/osixia/keepalived:release-2.1.5-dev
