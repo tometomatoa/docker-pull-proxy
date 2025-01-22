@@ -1,1 +1,1 @@
-keepalived:2.2.8-betav   registry.cn-hangzhou.aliyuncs.com/github-aliyun/keepalived:2.2.8-beta
+nginx:stable-perl  registry.cn-hangzhou.aliyuncs.com/github-aliyun/nginx:stable-perl
