@@ -1,1 +1,1 @@
-nginx:stable-perl  registry.cn-hangzhou.aliyuncs.com/github-aliyun/nginx:stable-perl
+nacos/nacos-server:v2.5.0 registry.cn-hangzhou.aliyuncs.com/github-aliyun/nginx:stable-perl
