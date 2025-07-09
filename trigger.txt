@@ -1,1 +1,1 @@
-zabbix/zabbix-java-gateway:centos-7.4-latest registry.cn-hangzhou.aliyuncs.com/github-aliyun/nacos:v2.5.0
+mysql:8.0.42 registry.cn-hangzhou.aliyuncs.com/github-aliyun/nacos:v2.5.0
