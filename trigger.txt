@@ -1,1 +1,1 @@
-zabbix/zabbix-server-mysql:centos-7.4-latest registry.cn-hangzhou.aliyuncs.com/github-aliyun/nacos:v2.5.0
+zabbix/zabbix-web-nginx-mysql:centos-7.4-latest registry.cn-hangzhou.aliyuncs.com/github-aliyun/nacos:v2.5.0
