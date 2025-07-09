@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.5.0 registry.cn-hangzhou.aliyuncs.com/github-aliyun/nacos:v2.5.0
+zabbix/zabbix-java-gateway:7.4-centos-latest registry.cn-hangzhou.aliyuncs.com/github-aliyun/nacos:v2.5.0
