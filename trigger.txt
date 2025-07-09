@@ -1,1 +1,1 @@
- registry.cn-zabbix/zabbix-server-mysql:centos-7.4-latest hangzhou.aliyuncs.com/github-aliyun/zabbix-server-mysql:7.4
+ registry.cn-zabbix/zabbix-server-mysql:centos-7.4-latest hangzhou.aliyuncs.com/github-aliyun/zabbix-server-mysql:7.5
