@@ -1,1 +1,1 @@
-zabbix/zabbix-web-nginx-mysql:7.4-centos-latest registry.cn-hangzhou.aliyuncs.com/github-aliyun/zabbix-server-mysql:7.4
+zabbix/zabbix-web-nginx-mysql:7.4-centos-latest registry.cn-hangzhou.aliyuncs.com/github-aliyun/zabbix-web-nginx-mysql:7.4
